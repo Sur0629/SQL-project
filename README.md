@@ -1,1 +1,1 @@
-# SQL-project
+# SQL-project - College Management System.
