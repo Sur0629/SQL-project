@@ -1,4 +1,4 @@
-# SQL-project - College Management System .
+# SQL-project - College Management System 
 College Management System SQL Project Overview
 Objective:
 Design and implement a SQL database system to manage various aspects of a college, including student information, courses, faculty details, and academic records.
